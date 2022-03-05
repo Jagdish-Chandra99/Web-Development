@@ -2,16 +2,13 @@
       body {
         margin: 0px;
         padding: 0px;
-        background-image: url(images/bg2.jpg);
-        background-repeat: no-repeat;
-        background-size: 100%;
       }
 
-      /* .head{
+      .head{
              background-image: url(images/bg2.jpg);
             background-repeat: no-repeat;
-            background-size:  100% 1600px; 
-        } */
+            background-size:  100% auto; 
+        }
       .logo {
         position: absolute;
         display: inline-block;
